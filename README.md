@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+This explains development progress.
 
-You can use the [editor on GitHub](https://github.com/airplaneboy14mc/Mr.-Stickman-Races-for-the-exit/edit/Alpha/README.md) to maintain and preview the content for your website in Markdown files.
+**Note - I know I did not release very much, I did not release a whole lot of Alpha releases, only one, but it has a full version that I am preparing to release soon. (06/09/21)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Beta 1.0.1 (Beta) - This release I am going to play around with making the game fullscreen and making the game stretch to the full screen.
 
-### Markdown
+Release 1.0.0 (Main) - This has all of the basic code and files compiled, it does not have a fullscreen feature but is being worked on, only contains 1 level and will eventually be receiving more updates, I cannot guaruntee the frequency of these updates though.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+NON_RELEASED_ALPHAS - Added critical files to the folder and added more code structure
 
-```markdown
-Syntax highlighted code block
+Alpha 0.0.1 (Alpha) - Contains little code, but a majority of the required files to run the game
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+--------------------------------------------
+ `Current Public Version - Alpha 0.0.1` 
+                                          
+ `Current Private Version - Release 1.0.0`
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/airplaneboy14mc/Mr.-Stickman-Races-for-the-exit/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
